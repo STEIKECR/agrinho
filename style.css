@@ -7,13 +7,13 @@
 
 
 :root {
-    --cor-de-fundo: #4169e1;
+    --cor-de-fundo: #001e77;
     --branco: white;
     --fonte-principal: "Poppins";
 }
 
 body {
-    background-color: #4169e1;
+    background-color: #00175e;
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
