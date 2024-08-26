@@ -7,8 +7,8 @@
 
 
 :root {
-    --cor-de-fundo: #002aa7;
-    --branco: white;
+    --cor-de-fundo: #02289b;
+    --branco: rgb(255, 132, 132);
     --fonte-principal: "Poppins";
 }
 
